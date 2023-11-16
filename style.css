@@ -88,8 +88,8 @@ header {
 
 }
 
-.or{
-    
+.or {
+
     display: inline-block;
     padding: 15px 22px;
     color: white;
@@ -191,6 +191,11 @@ section {
 
 }
 
+.skils-1 i {
+    margin: auto;
+    padding: 8px;
+}   
+
 .skils {
     padding-top: 400px;
 }
@@ -261,7 +266,7 @@ section {
 
 } */
 
-.text-tit{
+.text-tit {
     margin: 40px 0;
     font-family: 'Aref Ruqaa', serif;
     color: white;
@@ -315,15 +320,13 @@ section {
     margin-top: 30px;
 }
 
-iframe{
+iframe {
     margin: 0 -30px;
     padding: 0 30px;
 }
 
-.hekma {
-    font-family: 'Aref Ruqaa', serif;
-    color: white;
-    margin-top: 10px;
+footer {
+    padding-top: 40px;
 }
 
 .scroll {
