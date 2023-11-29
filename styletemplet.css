@@ -207,8 +207,6 @@ section {
 .swiper-slide--one {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
     url(img/7alp.jpg) no-repeat 50% 50% / cover;
-
-
 }
 
 .swiper-slide--two {
@@ -239,6 +237,42 @@ section {
 .swiper-3d .swiper-slide-shadow-left,
 .swiper-3d .swiper-slide-shadow-right {
   background-image: none;
+}
+
+.swiper-slide--one-t {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url(img/deq.png) no-repeat 50% 50% / cover;
+}
+
+.swiper-slide--two-t {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("img/sals\ elbol.png") no-repeat 50% 50% / cover;
+}
+
+.swiper-slide--three-t {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("img/sofly\ atfal.png") no-repeat 50% 50% / cover;
+}
+
+.swiper-slide--four-t {
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("img/sexcy.png") no-repeat 50% 50% / cover;
+}
+
+.swiper-slide--one-t span {
+  background: #62667f;
+}
+
+.swiper-slide--two-t span {
+  background: #087ac4;
+}
+
+.swiper-slide--three-t span {
+  background: #b45205;
+}
+
+.swiper-slide--four-t span {
+  background: #087ac4;
 }
 
 video {
